@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+background-color: tomato;
+border-color: white;
+}
+
+#header {
+    color:tomato;
+    font-family:cursive;
+    text-underline-position: below;
+}
+
+#user_name {
+
+    color: red;
+    font-family: sans-serif;
+    border-style: groove;
+    border-color: red;
+    border-radius: 4px;
+
+}
+
+#login_button {
+
+    background-color: turquoise;
+    color: blue;
+}
+
+#login_div {
+
+    padding-top: 400px;
+    background-color: white;
+    border-color: teal;
+    border-radius: 20px;
+}
